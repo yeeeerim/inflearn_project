@@ -1,4 +1,4 @@
-const mongoose = requie('mongoose');
+const mongoose = require('mongoose');
 
 
 const userSchema = mongoose.Schema({
@@ -34,4 +34,4 @@ const userSchema = mongoose.Schema({
 
 const User = mongoose.model('User', userSchema) // 모델로 생성
 
-module.exports() = { User } // 다른 곳에서도 쓸 수 있도록
+module.exports = { User } // 다른 곳에서도 쓸 수 있도록
