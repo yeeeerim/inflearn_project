@@ -1,6 +1,6 @@
 # inflearn_project
 
-### 💎 개념정리
+### 📌 개념정리
 - Node.js : 브라우저 밖에서 javascript를 실행하기 위한 환경, 오픈소스
 - Express.js : Node.js를 위한 프레임워크
 - SSH : 깃허브 서버와의 안전한 통신을 위함
@@ -11,6 +11,7 @@
 - Bcrypt : 비밀번호를 Database에 암호화하여 삽입해주는 툴
 - jsonwebtoken : 토큰 생성을 위한 라이브러리
 - CookieParser : cookie 정보를 가져오기 위함
+
 <hr>
 
 - npm : node package manager. 라이브러리를 설치하거나 빌드할 수 있음 -> registory에 저장
